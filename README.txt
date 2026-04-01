@@ -1,7 +1,7 @@
-Situation 
+#Situation
 The organization achieved a cumulative revenue of $6.51M over the 2020–2023 period with a total net profit of $1,065,414. While annual sales volume grew from $1.14M to $2.19M, the Profit Margin plummeted from 18.0% in 2022 to 12.7% in 2023, indicating a severe decline in operational efficiency.
 
-Task
+#Task
 I performed a profitability audit of our transaction history over the past year to isolate the cause of the margin dip in 2023 to identify the relationship between discounting strategies and volume growth.
 
 Action 
