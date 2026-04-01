@@ -12,7 +12,7 @@ Action
 
 Results
 <p align="center">
-  <img src="Screenshot 2026-04-01 170243" width="800" title="Global E-Store Dashboard">
+  <img src="Screenshot 2026-04-01 170243.png" width="800" title="Global E-Store Dashboard">
 </p>
 •	Growth-Profit Divergence: While Sales volume reached an all-time high in 2023 (surpassing $2.19M), Net Profit fell to a three-year low. This confirms that top-line growth is currently being achieved at the expense of bottom-line health.
 •	Margin Compression Crisis: Despite a record-breaking revenue increase of over $400,000 between 2022 and 2023, the Profit Margin collapsed from 18% to 12.7%. This 5.3% drop indicates that operational and acquisition costs are outstripping revenue gains.
