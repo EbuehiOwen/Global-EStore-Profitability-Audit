@@ -9,6 +9,9 @@ Action
 •	Categorical Auditing: I Isolated the Home and Accessories category to determine that its  net contribution is a negative $ -57,187 compared to the other segments.
 
 Results
+<p align="center">
+  <img src="Screenshot 2026-04-01 170243" width="800" title="Global E-Store Dashboard">
+</p>
 •	Growth-Profit Divergence: While Sales volume reached an all-time high in 2023 (surpassing $2.19M), Net Profit fell to a three-year low. This confirms that top-line growth is currently being achieved at the expense of bottom-line health.
 •	Margin Compression Crisis: Despite a record-breaking revenue increase of over $400,000 between 2022 and 2023, the Profit Margin collapsed from 18% to 12.7%. This 5.3% drop indicates that operational and acquisition costs are outstripping revenue gains.
 •	Discount Inelasticity: Analysis confirms that customers are unresponsive to marginal price changes. A 0.31% increase in average discounting during 2023 failed to provide a defensive volume buffer, resulting only in the erosion of existing margins.
