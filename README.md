@@ -1,6 +1,6 @@
 ### **[S] SITUATION**
 
-The organization achieved a cumulative revenue of **$6.51M** over the 2020–2023 period with a total net profit of **$1,065,414**. While annual sales volume grew from $1.14M to $2.19M, the Profit Margin plummeted from 18.0% in 2022 to 12.7% in 2023, indicating a severe decline in operational efficiency.
+The organization achieved a cumulative revenue of **$6.52M** over the 2020–2023 period with a total net profit of **$1,065,414**. While annual sales volume grew from $1.14M to $2.19M, the Profit Margin plummeted from 18.0% in 2022 to 12.8% in 2023, indicating a severe decline in operational efficiency.
 
 ### **[T] TASK**
 I performed a profitability audit of our transaction history over the past year to isolate the cause of the margin dip in 2023 to identify the relationship between discounting strategies and volume growth.
@@ -11,21 +11,19 @@ I performed a profitability audit of our transaction history over the past year 
 
 ### **[R] RESULTS**
 <p align="center">
-  <img src="Screenshot 2026-04-01 170243.png" width="800" title="Global E-Store Dashboard">
+  <img src="EStore_Profitability_Dashboard.png" width="800" title="Global E-Store Dashboard">
 </p>
 
-•	**Growth-Profit Divergence:** While Sales volume reached an all-time high in 2023 (surpassing $2.19M), Net Profit fell to a three-year low. This confirms that top-line growth is currently being achieved at the expense of bottom-line health.
+• Growth–profit divergence: Sales hit a four-year high of $2.19M in 2023 (+24%), but profit fell 12% ($318.7K to $279.9K) and margin dropped from 18.0% to 12.8%.
 
-•	**Margin Compression Crisis:** Despite a record-breaking revenue increase of over $400,000 between 2022 and 2023, the Profit Margin collapsed from 18% to 12.7%. This 5.3% drop indicates that operational and acquisition costs are outstripping revenue gains.
+• Source of the decline: Body care explains about 79% of the $38.7K profit drop (margin 24.2% to 16.8%), followed by Make up (15%). Home & Accessories explains only about 5%.
 
-•	**Discount Inelasticity:** Analysis confirms that customers are unresponsive to marginal price changes. A 0.31% increase in average discounting during 2023 failed to provide a defensive volume buffer, resulting only in the erosion of existing margins.
+• Home & Accessories: loss-making every year ($-57,187 total, -4.6% margin), a persistent drag but not the cause of the 2023 dip. Its margin is +10% on undiscounted orders.
 
-•	**Home & Accessories Deficit:** This category is identified as the primary "Profit Consumer." It has failed to generate a net profit in four years; crucially, the data shows that increased sales volume in this category correlates directly with deeper financial losses.
+• Deep discounts destroy margin: orders discounted over 30% ran at -15.6% (30-50%) and -32.3% (50%+) margin, versus +31.7% undiscounted. They made up 21% of sales and lost about $296K.
 
-•	**Efficiency Trough:** The audit concludes that while the organization is at its historical peak for Market Reach and Revenue, operational efficiency is at a 4-year low.
+• No measurable volume benefit: the correlation between discount and quantity is near zero in every year (-0.002 to 0.004).
 
-•	**Discount Inelasticity & Statistical Analysis:** Audit results confirm that customers are unresponsive to price changes. A Pearson Correlation analysis between Discount and Quantity Sold showed near zero values, going from an insignificant 0.0034 in 2020 to a negative -0.0015 in 2023. This proves there is no statistical relationship between price cuts and volume growth, cementing the urgent need to remove discounts to recover lost margins.
+Recommendation: cap discounts at 30% across all categories and test whether this recovers margin in Body care and Make up, and review Home & Accessories costs separately.
 
-**Recommendations**
-
-Immediately eliminate all discounts for the Home and Accessories category. Data shows that the discount provided isn’t worth the loss in margin. Those lost dollars can be diverted into other high performing categories like body care.
+Data note: the dataset appears to be a relabelled public sample (order IDs show 2012-2015 while dates show 2020-2023, and products don't match subcategories), so findings demonstrate method, not real-world conclusions. Source: [add name/link if you know it].
